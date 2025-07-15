@@ -64,3 +64,6 @@ Obs: There are quite a lot of ambiguous questions and the showing result might n
 
 #### Paid ####
 * [Udemy: [COF-C02] Snowflake SnowPro Core Certification Practice Sets](https://www.udemy.com/course/snowflake-snowpro-core-certification-exam-practice-sets/)  
+
+#### Deepwiki ####
+* https://deepwiki.com/Infostrux-Solutions/snowflake-snowpro-core-study-notes
